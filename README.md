@@ -1,4 +1,5 @@
-### Мой стек технологий
+# Привет, меня зовут Олег!
+### Мой стек технологий:
 
 <img src="https://img.shields.io/badge/Python-7FFFD4?style=for-thebadge&logo=python&logoColor=black   " />
 <img src="https://img.shields.io/badge/HTML-black?style=for-thebadge&logo=HTML5&logoColor=red   " />
