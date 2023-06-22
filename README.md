@@ -1,4 +1,6 @@
 # Привет, меня зовут Олег!
+# Обо мне:
+Закончил курсы по программированию 22.01.2023 года, Python Backend разработчик, продолжаю развитие самостоятельно.
 ### Мой стек технологий:
 
 <img src="https://img.shields.io/badge/Python-7FFFD4?style=for-thebadge&logo=python&logoColor=black   " />
